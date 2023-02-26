@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseFirestore/Firestore/core/src/timestamp_internal.cc \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseFirestore/Firestore/core/src/timestamp_internal.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseFirestore/Firestore/core/include/firebase/firestore/timestamp.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseFirestore/Firestore/core/src/util/statusor.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseFirestore/Firestore/core/include/firebase/firestore/firestore_errors.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseFirestore/Firestore/core/src/util/status.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseFirestore/Firestore/core/src/util/status_fwd.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/string_view.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/throw_delegate.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseFirestore/Firestore/core/src/util/statusor_internals.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/time/time.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/time/civil_time.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/time/internal/cctz/include/cctz/civil_time.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/time/internal/cctz/include/cctz/civil_time_detail.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/time/internal/cctz/include/cctz/time_zone.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseFirestore/Firestore/core/src/util/hashing.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseFirestore/Firestore/core/src/objc/objc_type_traits.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseFirestore/Firestore/core/src/util/type_traits.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/optional.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/utility/utility.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/inline_variable.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/invoke.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/bad_optional_access.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/internal/optional.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/memory/memory.h

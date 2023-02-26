@@ -1,0 +1,50 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "f8b708a69fe9f6e6cdd6164342f67461ff7f0c4756904ca93b250938eeec9150"
+build_start_time: [1676297713, 678187847]
+build_end_time: [1676297713, 796180963]
+inputs:
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/AsyncAwait.swift"
+  : !private [1676297623, 412132263]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageDeleteTask.swift"
+  : !private [1676297623, 400310993]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetDownloadURLTask.swift"
+  : !private [1676297623, 402168512]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetMetadataTask.swift"
+  : !private [1676297623, 408748626]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageListTask.swift"
+  : !private [1676297623, 411187410]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StoragePath.swift"
+  : !private [1676297623, 401188850]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTaskState.swift"
+  : !private [1676297623, 404958724]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTokenAuthorizer.swift"
+  : !private [1676297623, 406132936]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageUpdateMetadataTask.swift"
+  : !private [1676297623, 404026508]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageUtils.swift"
+  : !private [1676297623, 403040409]
+  "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Result.swift": !private [1676297623, 398711204]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Storage.swift"
+  : !private [1676297623, 386458635]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageComponent.swift"
+  : !private [1676297623, 396436691]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageConstants.swift"
+  : !private [1676297623, 417726993]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageDownloadTask.swift"
+  : !private [1676297623, 393761873]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageError.swift"
+  : !private [1676297623, 420335292]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageListResult.swift"
+  : !private [1676297623, 394820451]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageMetadata.swift"
+  : !private [1676297623, 416692495]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageObservableTask.swift"
+  : !private [1676297623, 390545845]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageReference.swift"
+  : !private [1676297623, 418999671]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTask.swift"
+  : !private [1676297623, 397600173]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTaskSnapshot.swift"
+  : !private [1676297623, 388174295]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageUploadTask.swift"
+  : !private [1676297623, 414838790]

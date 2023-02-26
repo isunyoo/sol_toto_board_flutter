@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "f2b3662584fc90c34c095a9665f6c68669f446f3ee3eb4fbcb60f25e6436a4b0"
+build_start_time: [1676297698, 777292966]
+build_end_time: [1676297698, 860265016]
+inputs:
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : !private [1676297622, 222220897]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : !private [1676297622, 224978208]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : !private [1676297622, 226545333]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : !private [1676297622, 227839231]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : !private [1676297622, 229866027]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : !private [1676297622, 223298788]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : !private [1676297622, 221243143]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : !private [1676297622, 231141567]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : !private [1676297622, 228855609]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : !private [1676297622, 224036693]
+  ? "/Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : !private [1676297622, 225629329]

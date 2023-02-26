@@ -1,0 +1,109 @@
+{
+  "version": "0.1.0",
+  "name": "toto_slots",
+  "instructions": [
+    {
+      "name": "initSlotAccount",
+      "accounts": [
+        {
+          "name": "slotAccount",
+          "isMut": true,
+          "isSigner": true
+        },
+        {
+          "name": "owner",
+          "isMut": true,
+          "isSigner": true
+        },
+        {
+          "name": "systemProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": []
+    },
+    {
+      "name": "updateSlotData",
+      "accounts": [
+        {
+          "name": "slotAccount",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "owner",
+          "isMut": false,
+          "isSigner": true
+        }
+      ],
+      "args": [
+        {
+          "name": "uid",
+          "type": "string"
+        },
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "email",
+          "type": "string"
+        },
+        {
+          "name": "slots",
+          "type": "string"
+        },
+        {
+          "name": "time",
+          "type": "string"
+        },
+        {
+          "name": "dataAccountAddress",
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "accounts": [
+    {
+      "name": "SlotAccountData",
+      "type": {
+        "kind": "struct",
+        "fields": [
+          {
+            "name": "uid",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "email",
+            "type": "string"
+          },
+          {
+            "name": "slots",
+            "type": "string"
+          },
+          {
+            "name": "time",
+            "type": "string"
+          },
+          {
+            "name": "dataAccountAddress",
+            "type": "string"
+          },
+          {
+            "name": "owner",
+            "type": "publicKey"
+          }
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "address": "EgjsT9zhSjfrTMXo3vN5Evp5iSA4RWu6BdKk1oMj3ALm"
+  }
+}

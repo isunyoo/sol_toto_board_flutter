@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "f09b74d456b5dc7d51f1188de18e7c1b845b31f04629b796b6b254e1b98effd3"
+build_start_time: [1676297672, 288621902]
+build_end_time: [1676297672, 368781089]
+inputs:
+  "/Users/syoo/.pub-cache/hosted/pub.dev/path_provider_macos-2.0.6/macos/Classes/PathProviderPlugin.swift": !private [1670818773, 147675991]

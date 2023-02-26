@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/self_check.c \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/Target\ Support\ Files/BoringSSL-GRPC/BoringSSL-GRPC-prefix.pch \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/crypto.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/base.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/is_boringssl.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/opensslconf.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/boringssl_prefix_symbols.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/sha.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/mem.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/thread.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/aead.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/aes.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/bn.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/des.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/dh.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/digest.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/ec.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/ec_key.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/engine.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/ex_data.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/stack.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/type_check.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/ecdsa.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/nid.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/rsa.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../../internal.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../ec/internal.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../ec/../bn/internal.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../ec/../bn/../../internal.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../ecdsa/internal.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../rand/internal.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/include/openssl/cpu.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../rand/../../internal.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../rand/../modes/internal.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../rand/../modes/../../internal.h \
+  /Users/syoo/Documents/SourceCodes/Flutter/eth_toto_board_flutter/macos/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../tls/internal.h
