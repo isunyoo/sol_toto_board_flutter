@@ -11,7 +11,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:firebase_remote_config/firebase_remote_config.dart';
 import 'package:eth_toto_board_flutter/utilities/key_encryption.dart';
-
 import 'package:eth_toto_board_flutter/firebase_options.dart';
 
 class Web3DartHelper {

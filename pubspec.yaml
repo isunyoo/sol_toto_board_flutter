@@ -60,6 +60,7 @@ dependencies:
   firebase_remote_config: ^3.0.7
   firebase_core: ^2.4.0
   firebase_analytics: ^10.0.7
+  solana_web3: ^0.0.4
 
 dev_dependencies:
   flutter_test:

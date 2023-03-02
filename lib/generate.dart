@@ -5,6 +5,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:eth_toto_board_flutter/output.dart';
 import 'package:eth_toto_board_flutter/boardmain.dart';
 import 'package:flutter_speed_dial/flutter_speed_dial.dart';
+import 'utilities/solweb3util.dart';
 
 class GeneratedOutput extends StatefulWidget {
   final List passedValue1;
@@ -19,17 +20,20 @@ class _GeneratedOutputState extends State<GeneratedOutput> {
   // Initialize the Web3DartHelper class from utility packages
   Web3DartHelper web3util = Web3DartHelper();
   late String myAddress='';
+  Web3SolHelper web3sol = Web3SolHelper();
 
   @override
   void initState() {
     // TODO: implement initState
     super.initState();
     web3util.initState();
+    web3sol.initState();
   }
 
   Future<void> initialSetup() async {
     await web3util.initState();
     myAddress = await web3util.getAddress();
+    await web3sol.initState();
   }
 
   // Display a snackbar widget
@@ -121,19 +125,22 @@ class _GeneratedOutputState extends State<GeneratedOutput> {
               child: const Icon(Icons.party_mode_sharp),
               label: 'Submit(Sol)',
               backgroundColor: Colors.blue,
+              // onTap: () async {
+              //   var newSlotData = widget.passedValue1;
+              //   // The submit() function essentially signs and sends a transaction to the blockchain network from web3dart library.
+              //   var transactionHash = await web3util.pushArrayData(newSlotData);
+              //   // Insufficient funds for ethereum account for transaction
+              //   if(transactionHash == ''){
+              //     ScaffoldMessenger.of(context).showSnackBar(
+              //       customSnackBar(content: 'Insufficient funds for gas * price + value.\nPlease deposit ethereum funds in account.'),
+              //     );
+              //   } else {
+              //     // Sufficient funds for ethereum account for transaction
+              //     _showApproveDialog();
+              //   }
+              // },
               onTap: () async {
-                var newSlotData = widget.passedValue1;
-                // The submit() function essentially signs and sends a transaction to the blockchain network from web3dart library.
-                var transactionHash = await web3util.pushArrayData(newSlotData);
-                // Insufficient funds for ethereum account for transaction
-                if(transactionHash == ''){
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    customSnackBar(content: 'Insufficient funds for gas * price + value.\nPlease deposit ethereum funds in account.'),
-                  );
-                } else {
-                  // Sufficient funds for ethereum account for transaction
-                  _showApproveDialog();
-                }
+                await web3sol.transferToken();
               },
             ),
             SpeedDialChild(
