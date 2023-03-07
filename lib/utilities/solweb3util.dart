@@ -18,15 +18,6 @@ class Web3SolHelper {
     print('Creating accounts...\n');
   }
 
-  // Functions for reading the smart contract and submitting a transaction.
-  Future<web3.DeployedContract> loadContract() async {
-    String idlCode = await rootBundle.loadString("assets/toto_slots.json");
-    // String contractAddress = dotenv.get('Development_Contract_Address');
-    String contractAddress = remoteConfig.getString('Solana_Contract_Address');
-    final contract = web3.DeployedContract(web3.ContractAbi.fromJson(idlCode, "toto_slots"), web3.EthereumAddress.fromHex(contractAddress));
-    return contract;
-  }
-
   // Transfer tokens from one wallet to another.
   Future<void> transferToken() async {
     // Create a wallet to transfer tokens from.
